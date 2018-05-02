@@ -1,5 +1,5 @@
-Computer Vision Class 
-Professor: Lee Chilwoo   
+### Computer Vision Class 
+Professor: Lee Chilwoo                                                                         
 Student: Tran Dinh Son, trandinhson3086@gmail.com     
 Chonnam National University   
 
